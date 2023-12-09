@@ -1,6 +1,6 @@
 p1=0
 p2=0
-with open("input2.txt") as f:
+with open("p1data.txt") as f:
     for line in f:
         d1 = []
         d2 = []
